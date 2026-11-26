@@ -4,7 +4,9 @@
 
 **ゆっくり過ごすための、インタラクティブな部屋。**
 
-![TVRoom](thumbnails/project/xl.jpg)
+[![▶ YouTube でプレビューを見る](docs/images/tvroom-preview.png)](https://youtube.com/live/aTu-y6cP5kg)
+
+[▶ YouTube でプレビューを見る](https://youtube.com/live/aTu-y6cP5kg)
 
 家具のある3D空間を歩き、動画を見たり、ノートを読んだり、歩き回る猫と過ごせます。PlayCanvas で作られたブラウザー向けプロジェクトです。
 

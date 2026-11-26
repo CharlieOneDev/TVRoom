@@ -4,7 +4,9 @@
 
 **一个可以慢下来、自由探索的互动房间。**
 
-![TVRoom](thumbnails/project/xl.jpg)
+[![▶ 在 YouTube 观看预览效果](docs/images/tvroom-preview.png)](https://youtube.com/live/aTu-y6cP5kg)
+
+[▶ 在 YouTube 观看预览效果](https://youtube.com/live/aTu-y6cP5kg)
 
 在布置好的 3D 房间里散步、看视频、翻阅笔记，陪伴四处走动的猫咪。使用 PlayCanvas 构建，面向浏览器运行。
 

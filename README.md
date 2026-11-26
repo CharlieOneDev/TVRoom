@@ -4,7 +4,9 @@
 
 **An interactive room for slowing down.**
 
-![TVRoom](thumbnails/project/xl.jpg)
+[![▶ Watch the preview on YouTube](docs/images/tvroom-preview.png)](https://youtube.com/live/aTu-y6cP5kg)
+
+[▶ Watch the preview on YouTube](https://youtube.com/live/aTu-y6cP5kg)
 
 Explore a furnished 3D room, watch videos, browse a notebook, and spend time with a wandering cat. Built with PlayCanvas for the browser.
 
