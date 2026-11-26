@@ -1,0 +1,289 @@
+{
+	"scene": {
+		"version": 1,
+		"assets": {
+			"renders": [
+				{
+					"name": "pCylinder1_tt_0",
+					"index": 0,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 379,
+					"triangles": 434,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "pCube4_tt_0",
+					"index": 1,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 286,
+					"triangles": 352,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "pCube6_tt_0",
+					"index": 2,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 1220,
+					"triangles": 1164,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				}
+			],
+			"materials": [
+				"material"
+			]
+		},
+		"entities": {
+			"0": {
+				"name": "Sketchfab_model",
+				"parent": -1,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					-90,
+					-0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					1
+				]
+			},
+			"1": {
+				"name": "325f89caf48246f5a5a44b9f657431c3.fbx",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					90,
+					-0,
+					0
+				],
+				"scale": [
+					0.01,
+					0.01,
+					0.01
+				],
+				"scaleCompensation": false,
+				"children": [
+					2
+				]
+			},
+			"2": {
+				"name": "RootNode",
+				"parent": 1,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					3,
+					5,
+					7
+				]
+			},
+			"3": {
+				"name": "pCylinder1",
+				"parent": 2,
+				"position": [
+					4.5597,
+					2.14359,
+					-6.33639
+				],
+				"rotation": [
+					136.715,
+					-41.9877,
+					-125.385
+				],
+				"scale": [
+					0.761318,
+					0.761318,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					4
+				]
+			},
+			"4": {
+				"name": "pCylinder1_tt_0",
+				"parent": 3,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 0,
+						"materials": [
+							"material"
+						]
+					}
+				}
+			},
+			"5": {
+				"name": "pCube4",
+				"parent": 2,
+				"position": [
+					2.62416,
+					1.27817,
+					3.52363
+				],
+				"rotation": [
+					9.33467e-06,
+					-76.4425,
+					-2.98801e-12
+				],
+				"scale": [
+					2.55634,
+					2.55634,
+					2.55634
+				],
+				"scaleCompensation": false,
+				"children": [
+					6
+				]
+			},
+			"6": {
+				"name": "pCube4_tt_0",
+				"parent": 5,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 1,
+						"materials": [
+							"material"
+						]
+					}
+				}
+			},
+			"7": {
+				"name": "pCube6",
+				"parent": 2,
+				"position": [
+					-3.3808,
+					0,
+					0.576955
+				],
+				"rotation": [
+					9.33467e-06,
+					35.546,
+					1.41416e-13
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					8
+				]
+			},
+			"8": {
+				"name": "pCube6_tt_0",
+				"parent": 7,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 2,
+						"materials": [
+							"material"
+						]
+					}
+				}
+			}
+		}
+	}
+}

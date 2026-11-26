@@ -1,0 +1,223 @@
+{
+	"scene": {
+		"version": 1,
+		"assets": {
+			"renders": [
+				{
+					"name": "Window - Frame, grey powder-coated aluminium",
+					"index": 0,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 216,
+					"triangles": 108,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Window - Gaskets, black EPDM",
+					"index": 1,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 96,
+					"triangles": 48,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Window - Handles and hinges, satin silver",
+					"index": 2,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 418,
+					"triangles": 480,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Window - Obscure reeded glass (alpha-blended, own procedural texture)",
+					"index": 3,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 24,
+					"triangles": 12,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				}
+			],
+			"materials": [
+				"Frame, grey powder-coated aluminium",
+				"Gaskets, black EPDM",
+				"Handles and hinges, satin silver",
+				"Obscure reeded glass (alpha-blended, own procedural texture)"
+			]
+		},
+		"entities": {
+			"0": {
+				"name": "Obscure-glass casement window 600 x 1200, grey aluminium",
+				"parent": -1,
+				"position": [
+					0,
+					0.0199969,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					1,
+					2,
+					3,
+					4
+				]
+			},
+			"1": {
+				"name": "Window - Frame, grey powder-coated aluminium",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 0,
+						"materials": [
+							"Frame, grey powder-coated aluminium"
+						]
+					}
+				}
+			},
+			"2": {
+				"name": "Window - Gaskets, black EPDM",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 1,
+						"materials": [
+							"Gaskets, black EPDM"
+						]
+					}
+				}
+			},
+			"3": {
+				"name": "Window - Handles and hinges, satin silver",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 2,
+						"materials": [
+							"Handles and hinges, satin silver"
+						]
+					}
+				}
+			},
+			"4": {
+				"name": "Window - Obscure reeded glass (alpha-blended, own procedural texture)",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 3,
+						"materials": [
+							"Obscure reeded glass (alpha-blended, own procedural texture)"
+						]
+					}
+				}
+			}
+		}
+	}
+}

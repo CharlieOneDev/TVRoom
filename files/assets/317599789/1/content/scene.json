@@ -1,0 +1,59 @@
+{
+	"scene": {
+		"version": 1,
+		"assets": {
+			"renders": [
+				{
+					"name": "lounge_chair",
+					"index": 0,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 4203,
+					"triangles": 6148,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				}
+			],
+			"materials": [
+				"mid_century_lounge_chair"
+			]
+		},
+		"entities": {
+			"0": {
+				"name": "mid_century_lounge_chair",
+				"parent": -1,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 0,
+						"materials": [
+							"mid_century_lounge_chair"
+						]
+					}
+				}
+			}
+		}
+	}
+}

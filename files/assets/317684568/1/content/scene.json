@@ -1,0 +1,290 @@
+{
+	"scene": {
+		"version": 1,
+		"assets": {
+			"renders": [
+				{
+					"name": "Muchkin1_001",
+					"index": 0,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 1719,
+					"triangles": 2202,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Muchkin1",
+					"index": 1,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 7563,
+					"triangles": 13589,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				}
+			],
+			"materials": [
+				"Muchkin1_001",
+				"Muchkin1"
+			]
+		},
+		"entities": {
+			"0": {
+				"name": "Sketchfab_model",
+				"parent": -1,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					-90,
+					-0,
+					0
+				],
+				"scale": [
+					0.351376,
+					0.351376,
+					0.351376
+				],
+				"scaleCompensation": false,
+				"children": [
+					1
+				]
+			},
+			"1": {
+				"name": "Cat_Muchkin2.abc.cleaner.materialmerger.gles",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					2
+				]
+			},
+			"2": {
+				"name": "Object_2",
+				"parent": 1,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					90,
+					-0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					3
+				]
+			},
+			"3": {
+				"name": "Object_3",
+				"parent": 2,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					4,
+					7
+				]
+			},
+			"4": {
+				"name": "Object_4",
+				"parent": 3,
+				"position": [
+					-0.00442638,
+					0.00762618,
+					-0.000786096
+				],
+				"rotation": [
+					57.094,
+					-30.926,
+					-3.31643
+				],
+				"scale": [
+					3.67355,
+					3.67355,
+					3.67355
+				],
+				"scaleCompensation": false,
+				"children": [
+					5
+				]
+			},
+			"5": {
+				"name": "MorphMainGroup",
+				"parent": 4,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					6
+				]
+			},
+			"6": {
+				"name": "Muchkin1_001",
+				"parent": 5,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 0,
+						"materials": [
+							"Muchkin1_001"
+						]
+					}
+				}
+			},
+			"7": {
+				"name": "Object_7",
+				"parent": 3,
+				"position": [
+					-0.00633942,
+					0.00270569,
+					-0.00859642
+				],
+				"rotation": [
+					57.094,
+					-30.926,
+					-3.31643
+				],
+				"scale": [
+					3.67355,
+					3.67355,
+					3.67355
+				],
+				"scaleCompensation": false,
+				"children": [
+					8
+				]
+			},
+			"8": {
+				"name": "MorphMainGroup",
+				"parent": 7,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					9
+				]
+			},
+			"9": {
+				"name": "Muchkin1",
+				"parent": 8,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 1,
+						"materials": [
+							"Muchkin1"
+						]
+					}
+				}
+			}
+		}
+	}
+}

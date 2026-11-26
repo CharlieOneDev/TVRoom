@@ -1,0 +1,59 @@
+{
+	"scene": {
+		"version": 1,
+		"assets": {
+			"renders": [
+				{
+					"name": "Plane",
+					"index": 0,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 1156,
+					"triangles": 2178,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				}
+			],
+			"materials": [
+
+			]
+		},
+		"entities": {
+			"0": {
+				"name": "Plane",
+				"parent": -1,
+				"position": [
+					0,
+					1.69146,
+					1.23554
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 0,
+						"materials": [
+
+						]
+					}
+				}
+			}
+		}
+	}
+}

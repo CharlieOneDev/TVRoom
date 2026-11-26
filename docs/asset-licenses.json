@@ -1,0 +1,3832 @@
+[
+  {
+    "id": "317437537",
+    "name": "Mesh",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317437538",
+    "name": "ammo.wasm.wasm",
+    "type": "wasm",
+    "license": {
+      "id": "zlib",
+      "author": "kripken",
+      "authorUrl": "https://github.com/kripken/ammo.js/blob/main/LICENSE"
+    }
+  },
+  {
+    "id": "317437539",
+    "name": "ammo.js",
+    "type": "script",
+    "license": {
+      "id": "zlib",
+      "author": "kripken",
+      "authorUrl": "https://github.com/kripken/ammo.js/blob/main/LICENSE"
+    }
+  },
+  {
+    "id": "317437540",
+    "name": "platform-square.glb",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317437541",
+    "name": "font",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317437542",
+    "name": "ball",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317437543",
+    "name": "teleport-b",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317437544",
+    "name": "ball.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317437545",
+    "name": "platform-arrow.glb",
+    "type": "scene",
+    "license": null
+  },
+  {
+    "id": "317437546",
+    "name": "platform.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317437547",
+    "name": "LICENSE.txt",
+    "type": "text",
+    "license": {
+      "id": "apache",
+      "author": "Google",
+      "authorUrl": "https://github.com/googlefonts/roboto/blob/main/LICENSE"
+    }
+  },
+  {
+    "id": "317437548",
+    "name": "platform-square.glb",
+    "type": "scene",
+    "license": null
+  },
+  {
+    "id": "317437549",
+    "name": "ammo.wasm.js",
+    "type": "script",
+    "license": {
+      "id": "zlib",
+      "author": "kripken",
+      "authorUrl": "https://github.com/kripken/ammo.js/blob/main/LICENSE"
+    }
+  },
+  {
+    "id": "317437550",
+    "name": "platform-square",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317437551",
+    "name": "platform-arrow",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317437552",
+    "name": "materials",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317437553",
+    "name": "textures",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317437554",
+    "name": "models",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317437555",
+    "name": "ammo.js",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317437556",
+    "name": "Roboto-Black.ttf",
+    "type": "font",
+    "license": {
+      "id": "apache",
+      "author": "Google",
+      "authorUrl": "https://github.com/googlefonts/roboto/blob/main/LICENSE"
+    }
+  },
+  {
+    "id": "317437557",
+    "name": "teleport-a",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317437558",
+    "name": "follow-camera.js",
+    "type": "script",
+    "license": null
+  },
+  {
+    "id": "317437559",
+    "name": "platform-square.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317437560",
+    "name": "platform-arrow.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317437561",
+    "name": "movement.js",
+    "type": "script",
+    "license": null
+  },
+  {
+    "id": "317437562",
+    "name": "teleporter.js",
+    "type": "script",
+    "license": null
+  },
+  {
+    "id": "317437563",
+    "name": "platform-arrow.glb",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317437564",
+    "name": "platform",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317437565",
+    "name": "Roboto-Black.ttf",
+    "type": "font",
+    "license": null
+  },
+  {
+    "id": "317437566",
+    "name": "Mesh",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317437567",
+    "name": "scripts",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317445924",
+    "name": "Street Narrow Straight.fbx",
+    "type": "scene",
+    "license": {
+      "id": "cc0",
+      "author": "PlayCanvas",
+      "authorUrl": "https://playcanvas.com "
+    }
+  },
+  {
+    "id": "317445925",
+    "name": "Small Phonebox.fbx",
+    "type": "scene",
+    "license": {
+      "id": "cc0",
+      "author": "PlayCanvas",
+      "authorUrl": "https://playcanvas.com "
+    }
+  },
+  {
+    "id": "317445926",
+    "name": "Suburban Home A.fbx",
+    "type": "scene",
+    "license": {
+      "id": "cc0",
+      "author": "PlayCanvas",
+      "authorUrl": "https://playcanvas.com "
+    }
+  },
+  {
+    "id": "317445927",
+    "name": "Residential Block A.fbx",
+    "type": "scene",
+    "license": {
+      "id": "cc0",
+      "author": "PlayCanvas",
+      "authorUrl": "https://playcanvas.com "
+    }
+  },
+  {
+    "id": "317445928",
+    "name": "Suburban Home B.fbx",
+    "type": "scene",
+    "license": {
+      "id": "cc0",
+      "author": "PlayCanvas",
+      "authorUrl": "https://playcanvas.com "
+    }
+  },
+  {
+    "id": "317445929",
+    "name": "Street Wide Straight.fbx",
+    "type": "scene",
+    "license": {
+      "id": "cc0",
+      "author": "PlayCanvas",
+      "authorUrl": "https://playcanvas.com "
+    }
+  },
+  {
+    "id": "317445930",
+    "name": "Small Fence.fbx",
+    "type": "scene",
+    "license": {
+      "id": "cc0",
+      "author": "PlayCanvas",
+      "authorUrl": "https://playcanvas.com "
+    }
+  },
+  {
+    "id": "317445931",
+    "name": "School.fbx",
+    "type": "scene",
+    "license": {
+      "id": "cc0",
+      "author": "PlayCanvas",
+      "authorUrl": "https://playcanvas.com "
+    }
+  },
+  {
+    "id": "317445932",
+    "name": "Small Wall.fbx",
+    "type": "scene",
+    "license": {
+      "id": "cc0",
+      "author": "PlayCanvas",
+      "authorUrl": "https://playcanvas.com "
+    }
+  },
+  {
+    "id": "317445933",
+    "name": "Office A.fbx",
+    "type": "scene",
+    "license": {
+      "id": "cc0",
+      "author": "PlayCanvas",
+      "authorUrl": "https://playcanvas.com "
+    }
+  },
+  {
+    "id": "317445934",
+    "name": "Small Wall And Boxes.fbx",
+    "type": "scene",
+    "license": {
+      "id": "cc0",
+      "author": "PlayCanvas",
+      "authorUrl": "https://playcanvas.com "
+    }
+  },
+  {
+    "id": "317445935",
+    "name": "Water.fbx",
+    "type": "scene",
+    "license": {
+      "id": "cc0",
+      "author": "PlayCanvas",
+      "authorUrl": "https://playcanvas.com "
+    }
+  },
+  {
+    "id": "317445936",
+    "name": "Skate Park.fbx",
+    "type": "scene",
+    "license": {
+      "id": "cc0",
+      "author": "PlayCanvas",
+      "authorUrl": "https://playcanvas.com "
+    }
+  },
+  {
+    "id": "317445937",
+    "name": "Street Junction Narrow.fbx",
+    "type": "scene",
+    "license": {
+      "id": "cc0",
+      "author": "PlayCanvas",
+      "authorUrl": "https://playcanvas.com "
+    }
+  },
+  {
+    "id": "317445938",
+    "name": "Street Junction Mixed.fbx",
+    "type": "scene",
+    "license": {
+      "id": "cc0",
+      "author": "PlayCanvas",
+      "authorUrl": "https://playcanvas.com "
+    }
+  },
+  {
+    "id": "317445939",
+    "name": "Retail.fbx",
+    "type": "scene",
+    "license": {
+      "id": "cc0",
+      "author": "PlayCanvas",
+      "authorUrl": "https://playcanvas.com "
+    }
+  },
+  {
+    "id": "317445940",
+    "name": "Ramp.fbx",
+    "type": "scene",
+    "license": {
+      "id": "cc0",
+      "author": "PlayCanvas",
+      "authorUrl": "https://playcanvas.com "
+    }
+  },
+  {
+    "id": "317445941",
+    "name": "Street Narrow Curve.fbx",
+    "type": "scene",
+    "license": {
+      "id": "cc0",
+      "author": "PlayCanvas",
+      "authorUrl": "https://playcanvas.com "
+    }
+  },
+  {
+    "id": "317445942",
+    "name": "Office B.fbx",
+    "type": "scene",
+    "license": {
+      "id": "cc0",
+      "author": "PlayCanvas",
+      "authorUrl": "https://playcanvas.com "
+    }
+  },
+  {
+    "id": "317445943",
+    "name": "Residential Block B.fbx",
+    "type": "scene",
+    "license": {
+      "id": "cc0",
+      "author": "PlayCanvas",
+      "authorUrl": "https://playcanvas.com "
+    }
+  },
+  {
+    "id": "317445944",
+    "name": "Basketball Court.fbx",
+    "type": "scene",
+    "license": {
+      "id": "cc0",
+      "author": "PlayCanvas",
+      "authorUrl": "https://playcanvas.com "
+    }
+  },
+  {
+    "id": "317445945",
+    "name": "Minimart.fbx",
+    "type": "scene",
+    "license": {
+      "id": "cc0",
+      "author": "PlayCanvas",
+      "authorUrl": "https://playcanvas.com "
+    }
+  },
+  {
+    "id": "317445946",
+    "name": "Street Junction Wide.fbx",
+    "type": "scene",
+    "license": {
+      "id": "cc0",
+      "author": "PlayCanvas",
+      "authorUrl": "https://playcanvas.com "
+    }
+  },
+  {
+    "id": "317445947",
+    "name": "Street Wide Curve.fbx",
+    "type": "scene",
+    "license": {
+      "id": "cc0",
+      "author": "PlayCanvas",
+      "authorUrl": "https://playcanvas.com "
+    }
+  },
+  {
+    "id": "317445948",
+    "name": "Police Station.fbx",
+    "type": "scene",
+    "license": {
+      "id": "cc0",
+      "author": "PlayCanvas",
+      "authorUrl": "https://playcanvas.com "
+    }
+  },
+  {
+    "id": "317445949",
+    "name": "Grass.fbx",
+    "type": "scene",
+    "license": {
+      "id": "cc0",
+      "author": "PlayCanvas",
+      "authorUrl": "https://playcanvas.com "
+    }
+  },
+  {
+    "id": "317445950",
+    "name": "Dirt.fbx",
+    "type": "scene",
+    "license": {
+      "id": "cc0",
+      "author": "PlayCanvas",
+      "authorUrl": "https://playcanvas.com "
+    }
+  },
+  {
+    "id": "317445951",
+    "name": "City Pack",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317445952",
+    "name": "Street Narrow Straight.fbx",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317445953",
+    "name": "Small Phonebox.fbx",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317445954",
+    "name": "Suburban Home A.fbx",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317445955",
+    "name": "Residential Block A.fbx",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317445956",
+    "name": "Suburban Home B.fbx",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317445957",
+    "name": "Street Wide Straight.fbx",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317445958",
+    "name": "Small Fence.fbx",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317445959",
+    "name": "School.fbx",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317445960",
+    "name": "Small Wall.fbx",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317445961",
+    "name": "Office A.fbx",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317445962",
+    "name": "Small Wall And Boxes.fbx",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317445963",
+    "name": "Water.fbx",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317445964",
+    "name": "Skate Park.fbx",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317445965",
+    "name": "Street Junction Narrow.fbx",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317445966",
+    "name": "Street Junction Mixed.fbx",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317445967",
+    "name": "Retail.fbx",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317445968",
+    "name": "Ramp.fbx",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317445969",
+    "name": "Street Narrow Curve.fbx",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317445970",
+    "name": "Office B.fbx",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317445971",
+    "name": "Residential Block B.fbx",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317445972",
+    "name": "Basketball Court.fbx",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317445973",
+    "name": "Minimart.fbx",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317445974",
+    "name": "Street Junction Wide.fbx",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317445975",
+    "name": "Street Wide Curve.fbx",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317445976",
+    "name": "Police Station.fbx",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317445977",
+    "name": "Grass.fbx",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317445978",
+    "name": "Dirt.fbx",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317445979",
+    "name": "tile_corner_B",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317445980",
+    "name": "tile_corner_b.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317445981",
+    "name": "tile_junction_AB",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317445982",
+    "name": "Street Narrow Curve.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317445983",
+    "name": "tile_street_A",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317445984",
+    "name": "tile_junction_ab.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317445985",
+    "name": "tile_water.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317445986",
+    "name": "boxes",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317445987",
+    "name": "tile_corner_A",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317445988",
+    "name": "tile_corner_a.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317445989",
+    "name": "Street Wide Curve.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317445990",
+    "name": "tile_water",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317445991",
+    "name": "boxes copy.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317445992",
+    "name": "tile_street_a.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317445993",
+    "name": "Water.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317445994",
+    "name": "Street Junction Mixed.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317445995",
+    "name": "Street Wide Straight.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317445996",
+    "name": "Small Wall And Boxes.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317446000",
+    "name": "fence",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446001",
+    "name": "Small Fence.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317446002",
+    "name": "fence copy.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446003",
+    "name": "tile_dirt",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446004",
+    "name": "tile_dirt.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446005",
+    "name": "Dirt.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317446006",
+    "name": "tile_junction_A",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446007",
+    "name": "tile_junction_a.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446008",
+    "name": "Street Junction Wide.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317446009",
+    "name": "ramp",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446010",
+    "name": "Ramp.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317446011",
+    "name": "tile_street_b.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446012",
+    "name": "tile_grass",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446013",
+    "name": "Street Narrow Straight.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317446014",
+    "name": "Grass.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317446015",
+    "name": "tile_grass.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446016",
+    "name": "Small Wall.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317446017",
+    "name": "wall",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446018",
+    "name": "phonebox copy.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446019",
+    "name": "phonebox",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446020",
+    "name": "Small Phonebox.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317446021",
+    "name": "tile_junction_B",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446022",
+    "name": "wall copy.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446023",
+    "name": "ramp.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446024",
+    "name": "tile_street_B",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446025",
+    "name": "tile_junction_b.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446026",
+    "name": "Street Junction Narrow.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317446029",
+    "name": "police_station.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446030",
+    "name": "Police Station.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317446031",
+    "name": "police_station",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446032",
+    "name": "suburban home 02",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446033",
+    "name": "suburban_home_02.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446034",
+    "name": "Suburban Home B.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317446035",
+    "name": "residential_block.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446036",
+    "name": "residential_block",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446037",
+    "name": "Residential Block A.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317446038",
+    "name": "suburban home",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446039",
+    "name": "suburban_home.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446040",
+    "name": "Suburban Home A.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317446041",
+    "name": "basketball_court.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446042",
+    "name": "basketball_court",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446043",
+    "name": "Basketball Court.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317446044",
+    "name": "skate_park",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446045",
+    "name": "Skate Park.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317446046",
+    "name": "skate_park.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446047",
+    "name": "Take 001.glb",
+    "type": "animation",
+    "license": null
+  },
+  {
+    "id": "317446048",
+    "name": "office_A",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446049",
+    "name": "office_a.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446050",
+    "name": "Office A.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317446051",
+    "name": "school",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446052",
+    "name": "minimart",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446053",
+    "name": "minimart.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446054",
+    "name": "school.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446055",
+    "name": "office_b.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446056",
+    "name": "Minimart.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317446057",
+    "name": "Office B.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317446058",
+    "name": "office_B",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446059",
+    "name": "School.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317446060",
+    "name": "retail",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446061",
+    "name": "retail.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446062",
+    "name": "resblock_02",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446063",
+    "name": "Retail.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317446064",
+    "name": "police_station",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446065",
+    "name": "resblock_02.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446066",
+    "name": "Residential Block B.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317446067",
+    "name": "ramp",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446068",
+    "name": "tile_junction_B",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446070",
+    "name": "tile_grass",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446071",
+    "name": "tile_corner_B",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446072",
+    "name": "tile_corner_A",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446073",
+    "name": "tile_street_A",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446074",
+    "name": "tile_junction_AB",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446075",
+    "name": "fence",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446076",
+    "name": "tile_dirt",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446077",
+    "name": "tile_street_B",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446078",
+    "name": "wall",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446079",
+    "name": "phonebox",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446080",
+    "name": "tile_junction_A",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446081",
+    "name": "boxes",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446082",
+    "name": "tile_water",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446083",
+    "name": "Dirt",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317446084",
+    "name": "Street Wide Straight",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317446085",
+    "name": "Street Junction Mixed",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317446086",
+    "name": "Street Junction Wide",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317446087",
+    "name": "office_B",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446088",
+    "name": "surbuban home 02",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446089",
+    "name": "skate_park",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446090",
+    "name": "basketball_court",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446091",
+    "name": "resblock",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446092",
+    "name": "minimart",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446093",
+    "name": "office_A",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446094",
+    "name": "surbuban home",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446095",
+    "name": "Ramp",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317446096",
+    "name": "Street Narrow Straight",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317446098",
+    "name": "Street Junction Narrow",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317446099",
+    "name": "Street Narrow Curve",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317446103",
+    "name": "Minimart",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317446104",
+    "name": "Suburban Home B",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317446105",
+    "name": "Small Wall And Boxes",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317446106",
+    "name": "Grass",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317446107",
+    "name": "resblock_02",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446108",
+    "name": "school",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446109",
+    "name": "retail",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446110",
+    "name": "Skate Park",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317446113",
+    "name": "Office A",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317446114",
+    "name": "Basketball Court",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317446115",
+    "name": "Suburban Home A",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317446116",
+    "name": "School",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317446117",
+    "name": "Small Wall",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317446118",
+    "name": "Residential Block B",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317446119",
+    "name": "Small Fence",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317446120",
+    "name": "Police Station",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317446121",
+    "name": "Office B",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317446122",
+    "name": "Street Wide Curve",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317446123",
+    "name": "Residential Block A",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317446124",
+    "name": "Retail",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317446125",
+    "name": "Small Phonebox",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317446126",
+    "name": "Water",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317446154",
+    "name": "minimalistic_modern_bedroom.glb",
+    "type": "scene",
+    "license": {
+      "id": "by",
+      "author": "dylanheyes",
+      "authorUrl": "https://sketchfab.com/3d-models/minimalistic-modern-bedroom-4f3db3cb57bd4bce886f7b9a13273a2f"
+    }
+  },
+  {
+    "id": "317446155",
+    "name": "Minimalistic Modern Bedroom",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317446156",
+    "name": "Bedroom",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446157",
+    "name": "Duvet",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446158",
+    "name": "Carpet",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446159",
+    "name": "Duvet_baseColor.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446160",
+    "name": "minimalistic_modern_bedroom.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317446161",
+    "name": "Bedroom_baseColor.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446162",
+    "name": "Windows",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446163",
+    "name": "Bedroom_metallicRoughness.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446164",
+    "name": "Carpet_metallicRoughness.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446165",
+    "name": "Duvet_metallicRoughness.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446166",
+    "name": "Carpet_baseColor.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446167",
+    "name": "Bedroom_Bedroom_0",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446168",
+    "name": "Bedroom_Duvet_0",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446169",
+    "name": "Bedroom_Bedroom_0",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446170",
+    "name": "Bedroom_Carpet_0",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446171",
+    "name": "Bedroom_Windows_0",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446172",
+    "name": "minimalistic_modern_bedroom",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317446176",
+    "name": "bathroom_interior.glb",
+    "type": "scene",
+    "license": {
+      "id": "by",
+      "author": "Akshaykhedkar97",
+      "authorUrl": "https://sketchfab.com/3d-models/bathroom-interior-7609ef43ffc04cc280f1525ffdc6d89a"
+    }
+  },
+  {
+    "id": "317446177",
+    "name": "Bathroom Interior",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317446178",
+    "name": "ceramic_objects",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446179",
+    "name": "ceiling",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446180",
+    "name": "lamp_metal",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446181",
+    "name": "faucethandle",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446182",
+    "name": "dustbin",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446183",
+    "name": "jetspray",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446184",
+    "name": "bathroom_light",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446185",
+    "name": "lamp_cloth",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446186",
+    "name": "passage_light",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446187",
+    "name": "crome",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446188",
+    "name": "mirror_body",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446189",
+    "name": "mirror_glass",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446190",
+    "name": "senclosure",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446191",
+    "name": "bathroomceiling",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446192",
+    "name": "towel01",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446193",
+    "name": "decoreplate",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446194",
+    "name": "towel02",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446195",
+    "name": "encloserglass",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446196",
+    "name": "flowerpot",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446197",
+    "name": "plant",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446198",
+    "name": "floor",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446199",
+    "name": "artisticwall",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446200",
+    "name": "vanitywall",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446201",
+    "name": "vanitycounter",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446202",
+    "name": "sidewall",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446203",
+    "name": "shower_head",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446204",
+    "name": "ceramic_objects_emissive.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446205",
+    "name": "ceiling_emissive.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446206",
+    "name": "handwash",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446207",
+    "name": "lamp_metal_baseColor.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446208",
+    "name": "window",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446209",
+    "name": "lamp_metal_metallicRoughness.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446210",
+    "name": "bathroom_wall_metallicRoughness.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446211",
+    "name": "bathroom_wall_normal.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446212",
+    "name": "bathroom_wall_emissive.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446213",
+    "name": "bathroomceiling_emissive.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446214",
+    "name": "crome_metallicRoughness.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446215",
+    "name": "lamp_cloth_emissive.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446216",
+    "name": "faucethandle_metallicRoughness.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446217",
+    "name": "bathroom_wall",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446218",
+    "name": "bathroom_light_emissive.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446219",
+    "name": "dustbin_metallicRoughness.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446220",
+    "name": "mirror_body_metallicRoughness.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446221",
+    "name": "towelroll",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446222",
+    "name": "window_metallicRoughness.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446223",
+    "name": "encloserglass_metallicRoughness.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446224",
+    "name": "passage_light_emissive.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446225",
+    "name": "senclosure_metallicRoughness.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446226",
+    "name": "towel01_normal.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446227",
+    "name": "toiletpaper_emissive.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446228",
+    "name": "handwash_metallicRoughness.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446229",
+    "name": "towel01_emissive.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446230",
+    "name": "shower_light",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446231",
+    "name": "window_emissive.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446232",
+    "name": "towel02_normal.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446233",
+    "name": "towel02_emissive.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446234",
+    "name": "towel02_metallicRoughness.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446235",
+    "name": "shower_head_metallicRoughness.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446236",
+    "name": "flowerpot_emissive.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446237",
+    "name": "showerpanel",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446238",
+    "name": "plant_metallicRoughness.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446239",
+    "name": "plant_normal.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446240",
+    "name": "plant_emissive.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446241",
+    "name": "shower_head_emissive.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446242",
+    "name": "handwash_emissive.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446243",
+    "name": "artisticwall_normal.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446244",
+    "name": "floor_emissive.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446245",
+    "name": "artisticwall_emissive.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446246",
+    "name": "vanitywall_normal.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446247",
+    "name": "vanitywall_metallicRoughness.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446248",
+    "name": "towel01_metallicRoughness.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446249",
+    "name": "vanitycounter_emissive.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446250",
+    "name": "vanitycounter_metallicRoughness.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446251",
+    "name": "floor_metallicRoughness.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446252",
+    "name": "sidewall_emissive.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446253",
+    "name": "towelroll_normal.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446254",
+    "name": "towelroll_emissive.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446255",
+    "name": "bathroom_interior.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317446256",
+    "name": "sidewall_normal.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446257",
+    "name": "decoreplate_emissive.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446258",
+    "name": "sidewall_metallicRoughness.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446259",
+    "name": "toiletpaper",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317446260",
+    "name": "plant_baseColor.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446261",
+    "name": "jetspray_metallicRoughness.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446262",
+    "name": "vanitywall_emissive.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317446263",
+    "name": "Object_1",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446264",
+    "name": "Object_0",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446265",
+    "name": "Object_2",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446266",
+    "name": "Object_3",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446267",
+    "name": "Object_4",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446268",
+    "name": "Object_5",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446269",
+    "name": "Object_6",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446270",
+    "name": "Object_7",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446271",
+    "name": "Object_8",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446272",
+    "name": "Object_9",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446273",
+    "name": "Object_10",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446274",
+    "name": "Object_11",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446275",
+    "name": "Object_12",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446276",
+    "name": "Object_13",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446277",
+    "name": "Object_14",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446278",
+    "name": "Object_15",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446279",
+    "name": "Object_16",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446280",
+    "name": "Object_17",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446281",
+    "name": "Object_18",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446282",
+    "name": "Object_19",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446283",
+    "name": "Object_20",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446284",
+    "name": "Object_21",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446285",
+    "name": "Object_22",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446286",
+    "name": "Object_23",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446287",
+    "name": "Object_24",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446288",
+    "name": "Object_25",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446289",
+    "name": "Object_26",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446290",
+    "name": "Object_27",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446291",
+    "name": "Object_28",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446292",
+    "name": "Object_29",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446293",
+    "name": "Object_30",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446294",
+    "name": "Object_31",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446295",
+    "name": "Object_32",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317446296",
+    "name": "bathroom_interior",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317448398",
+    "name": "Tropical Beach Cubemap",
+    "type": "cubemap",
+    "license": {
+      "id": "cc0",
+      "author": "hdrlabs",
+      "authorUrl": "https://www.hdrlabs.com/sibl/archive.html"
+    }
+  },
+  {
+    "id": "317448399",
+    "name": "Tropical_Beach_posz.png",
+    "type": "texture",
+    "license": {
+      "id": "cc0",
+      "author": "hdrlabs",
+      "authorUrl": "https://www.hdrlabs.com/sibl/archive.html"
+    }
+  },
+  {
+    "id": "317448400",
+    "name": "Tropical_Beach_posy.png",
+    "type": "texture",
+    "license": {
+      "id": "cc0",
+      "author": "hdrlabs",
+      "authorUrl": "https://www.hdrlabs.com/sibl/archive.html"
+    }
+  },
+  {
+    "id": "317448401",
+    "name": "Tropical_Beach_posx.png",
+    "type": "texture",
+    "license": {
+      "id": "cc0",
+      "author": "hdrlabs",
+      "authorUrl": "https://www.hdrlabs.com/sibl/archive.html"
+    }
+  },
+  {
+    "id": "317448402",
+    "name": "Tropical_Beach_negz.png",
+    "type": "texture",
+    "license": {
+      "id": "cc0",
+      "author": "hdrlabs",
+      "authorUrl": "https://www.hdrlabs.com/sibl/archive.html"
+    }
+  },
+  {
+    "id": "317448403",
+    "name": "Tropical_Beach_negy.png",
+    "type": "texture",
+    "license": {
+      "id": "cc0",
+      "author": "hdrlabs",
+      "authorUrl": "https://www.hdrlabs.com/sibl/archive.html"
+    }
+  },
+  {
+    "id": "317448404",
+    "name": "Tropical_Beach_negx.png",
+    "type": "texture",
+    "license": {
+      "id": "cc0",
+      "author": "hdrlabs",
+      "authorUrl": "https://www.hdrlabs.com/sibl/archive.html"
+    }
+  },
+  {
+    "id": "317448405",
+    "name": "Tropical Beach HDR Cubemap",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317448813",
+    "name": "video-screen.mjs",
+    "type": "script",
+    "license": null
+  },
+  {
+    "id": "317462229",
+    "name": "catchMyHeart.mp4",
+    "type": "audio",
+    "license": null
+  },
+  {
+    "id": "317462414",
+    "name": "camera-move.mjs",
+    "type": "script",
+    "license": null
+  },
+  {
+    "id": "317473844",
+    "name": "roomPlayer.js",
+    "type": "script",
+    "license": null
+  },
+  {
+    "id": "317474036",
+    "name": "room-player.mjs",
+    "type": "script",
+    "license": null
+  },
+  {
+    "id": "317490227",
+    "name": "youtube-screen.mjs",
+    "type": "script",
+    "license": null
+  },
+  {
+    "id": "317495515",
+    "name": "flatLight05.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317495516",
+    "name": "touch-joystick.mjs",
+    "type": "script",
+    "license": null
+  },
+  {
+    "id": "317495517",
+    "name": "touch-joypad-library.mjs",
+    "type": "script",
+    "license": null
+  },
+  {
+    "id": "317495518",
+    "name": "flatLight49.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317495519",
+    "name": "Touch Button",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317495520",
+    "name": "assets",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317495521",
+    "name": "Right Fixed Touch Joystick",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317495522",
+    "name": "scripts",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317495523",
+    "name": "touch-joypad",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317495524",
+    "name": "templates",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317495525",
+    "name": "flatLight09.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317495527",
+    "name": "Left Fixed Touch Joystick",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317495528",
+    "name": "Left Half Touch Joystick",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317495529",
+    "name": "Right Half Touch Joystick",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317495531",
+    "name": "touch-button.mjs",
+    "type": "script",
+    "license": null
+  },
+  {
+    "id": "317549438",
+    "name": "window (Alpha)",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317552163",
+    "name": "New Material",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317552875",
+    "name": "encloserglass (window)",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317554288",
+    "name": "bedroom-video-screen.mjs",
+    "type": "script",
+    "license": null
+  },
+  {
+    "id": "317599788",
+    "name": "polyhaven-mid-century-lounge-chair.glb",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317599789",
+    "name": "polyhaven-mid-century-lounge-chair.glb",
+    "type": "scene",
+    "license": null
+  },
+  {
+    "id": "317599790",
+    "name": "mid_century_lounge_chair",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317599791",
+    "name": "mid_century_lounge_chair_diff.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317599792",
+    "name": "mid_century_lounge_chair_nor_gl.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317599793",
+    "name": "polyhaven-mid-century-lounge-chair.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317599794",
+    "name": "mid_century_lounge_chair_metal-mid_century_lounge_chair_rough.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317599796",
+    "name": "lounge_chair",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317599797",
+    "name": "polyhaven-mid-century-lounge-chair",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317599834",
+    "name": "bay-window-about-2400-mm-3-units-at-45-degrees-colonial-gril.glb",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317599835",
+    "name": "bay-window-about-2400-mm-3-units-at-45-degrees-colonial-gril.glb",
+    "type": "scene",
+    "license": null
+  },
+  {
+    "id": "317599836",
+    "name": "62e7d8dfc2010b33.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317599837",
+    "name": "Muntin grilles, white",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317599838",
+    "name": "Sill and trim",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317599839",
+    "name": "a2d8cceb019d1271.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317599840",
+    "name": "Frames and sashes, white",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317599841",
+    "name": "Glass (alpha-blended)",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317599842",
+    "name": "bay-window-about-2400-mm-3-units-at-45-degrees-colonial-gril.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317599843",
+    "name": "d8f7c5394202fe42.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317599844",
+    "name": "4a59367a8158a910.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317599845",
+    "name": "Frame 1",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317599846",
+    "name": "Frame 2",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317599847",
+    "name": "Bay seat board and sill",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317599848",
+    "name": "Bay head board",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317599849",
+    "name": "Frame 3",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317599850",
+    "name": "Glass 1",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317599851",
+    "name": "Glass 2",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317599852",
+    "name": "Glass 3",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317599853",
+    "name": "Grilles 1",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317599854",
+    "name": "Grilles 2",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317599855",
+    "name": "Grilles 3",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317599856",
+    "name": "Sashes 1",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317599857",
+    "name": "Sashes 3",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317599858",
+    "name": "Sashes 2",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317599859",
+    "name": "bay-window-about-2400-mm-3-units-at-45-degrees-colonial-gril",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317603968",
+    "name": "bow-window.glb",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317603969",
+    "name": "bow-window.glb",
+    "type": "scene",
+    "license": null
+  },
+  {
+    "id": "317603971",
+    "name": "Satin oak | end grain",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317603972",
+    "name": "Satin oak | longitudinal grain",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317603973",
+    "name": "oak_normal.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317603974",
+    "name": "surface_normal.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317603975",
+    "name": "oak_roughness.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317603976",
+    "name": "bow-window.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317603977",
+    "name": "oak_endgrain_normal.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317603978",
+    "name": "oak_endgrain_roughness.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317603979",
+    "name": "oak_basecolor.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317603980",
+    "name": "a4700cb0bd7c1137.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317603981",
+    "name": "Clear glass",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317603982",
+    "name": "oak_endgrain_basecolor.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317603983",
+    "name": "Cube.002",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317603984",
+    "name": "Bow | continuous curved cap.001",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317603985",
+    "name": "Bow | continuous curved cap",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317603986",
+    "name": "Cube.003",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317603987",
+    "name": "Cube.008",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317603988",
+    "name": "Cube.009",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317603989",
+    "name": "Cube.014",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317603990",
+    "name": "Cube.015",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317603991",
+    "name": "Cube.020",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317603992",
+    "name": "Cube.021",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317603993",
+    "name": "Cube.026",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317603994",
+    "name": "Cube.027",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317603995",
+    "name": "Cube.004",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317603996",
+    "name": "Cube.010",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317603997",
+    "name": "Cube.016",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317603998",
+    "name": "Cube.022",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317603999",
+    "name": "Cube.028",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317604000",
+    "name": "Cube.005",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317604001",
+    "name": "Cube.011",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317604002",
+    "name": "Cube.017",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317604003",
+    "name": "Cube.023",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317604004",
+    "name": "Cube.029",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317604005",
+    "name": "Cube",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317604006",
+    "name": "Cube.001",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317604007",
+    "name": "Cube.006",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317604008",
+    "name": "Cube.007",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317604009",
+    "name": "Cube.012",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317604010",
+    "name": "Cube.013",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317604011",
+    "name": "Cube.018",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317604012",
+    "name": "Cube.019",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317604013",
+    "name": "Cube.024",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317604014",
+    "name": "Cube.025",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317604016",
+    "name": "bow-window",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317605128",
+    "name": "obscure-glass-casement-window-600-x-1200-grey-aluminium.glb",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317605129",
+    "name": "obscure-glass-casement-window-600-x-1200-grey-aluminium.glb",
+    "type": "scene",
+    "license": null
+  },
+  {
+    "id": "317605130",
+    "name": "Frame, grey powder-coated aluminium",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317605131",
+    "name": "ff40d0c3accf95c5.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317605132",
+    "name": "Gaskets, black EPDM",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317605133",
+    "name": "e558db6020f8c050.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317605134",
+    "name": "Handles and hinges, satin silver",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317605135",
+    "name": "x8_reeded.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317605136",
+    "name": "Obscure reeded glass (alpha-blended, own procedural texture)",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317605137",
+    "name": "b1e1fe83fa3a5e3e.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317605138",
+    "name": "obscure-glass-casement-window-600-x-1200-grey-aluminium.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317605139",
+    "name": "Window - Obscure reeded glass (alpha-blended, own procedural texture)",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317605140",
+    "name": "Window - Gaskets, black EPDM",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317605141",
+    "name": "Window - Frame, grey powder-coated aluminium",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317605142",
+    "name": "Window - Handles and hinges, satin silver",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317605143",
+    "name": "obscure-glass-casement-window-600-x-1200-grey-aluminium",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317618977",
+    "name": "wood-burning-stove-with-glass-door-and-flue-collar.glb",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317618979",
+    "name": "wood-burning-stove-with-glass-door-and-flue-collar.glb",
+    "type": "scene",
+    "license": null
+  },
+  {
+    "id": "317618980",
+    "name": "Door frame, grate and handle hardware, cast iron",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317618981",
+    "name": "Firebox lining, firebrick",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317618982",
+    "name": "Baffle and flue throat, sooted steel",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317618983",
+    "name": "394ac950e228acda.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317618984",
+    "name": "Handle grip, black",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317618985",
+    "name": "hm8_firebrick.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317618986",
+    "name": "60faa829c49f2c6f.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317618987",
+    "name": "6d31a456b415aa3c.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317618988",
+    "name": "51804431ac0c0b80.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317618989",
+    "name": "Door rope seal, grey glass fibre",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317618990",
+    "name": "wood-burning-stove-with-glass-door-and-flue-collar.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317618991",
+    "name": "3d0c47618406da92.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317618992",
+    "name": "Door window, ceramic glass (alpha-blended, smoked)",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317618993",
+    "name": "2f277dcc8b3b55cd.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317618994",
+    "name": "Split logs, bark",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317618995",
+    "name": "b23f3097168584d2.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317618996",
+    "name": "Steel body, matt black heat-resistant paint",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317618997",
+    "name": "Ash pan front and air controls",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317618998",
+    "name": "Baffle plate",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317618999",
+    "name": "Door glass",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317619000",
+    "name": "Door rope seal",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317619001",
+    "name": "Door, hinges and handle lever",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317619002",
+    "name": "Firebrick lining",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317619003",
+    "name": "Flue throat",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317619004",
+    "name": "Grate",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317619005",
+    "name": "Handle grip",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317619006",
+    "name": "Split logs",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317619007",
+    "name": "Stove body, legs and flue collar",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317619008",
+    "name": "wood-burning-stove-with-glass-door-and-flue-collar",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317620435",
+    "name": "rotating-layer-coffee-table.glb",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317620436",
+    "name": "rotating-layer-coffee-table.glb",
+    "type": "scene",
+    "license": null
+  },
+  {
+    "id": "317620437",
+    "name": "Satin champagne bronze",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317620438",
+    "name": "Satin walnut | longitudinal grain",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317620439",
+    "name": "Satin walnut | end grain",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317620440",
+    "name": "walnut_endgrain_normal.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317620441",
+    "name": "rotating-layer-coffee-table.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317620442",
+    "name": "walnut_endgrain_basecolor.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317620443",
+    "name": "walnut_roughness.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317620444",
+    "name": "Black felt floor glides",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317620445",
+    "name": "walnut_normal.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317620446",
+    "name": "Charcoal fine-textured powdercoat",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317620447",
+    "name": "walnut_basecolor.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317620448",
+    "name": "walnut_endgrain_roughness.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317620449",
+    "name": "Cylinder.001",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317620450",
+    "name": "Cylinder.002",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317620451",
+    "name": "Cylinder.003",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317620452",
+    "name": "Cylinder.004",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317620453",
+    "name": "Rotating walnut layer 1",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317620454",
+    "name": "Rotating walnut layer 2",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317620455",
+    "name": "Rotating walnut layer 3",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317620456",
+    "name": "Cylinder",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317620457",
+    "name": "Torus.001",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317620458",
+    "name": "Torus",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317620459",
+    "name": "Torus.002",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317620460",
+    "name": "Weighted oval-stack plinth",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317620461",
+    "name": "rotating-layer-coffee-table",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317632838",
+    "name": "folder",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317684375",
+    "name": "munchkin_cat.glb",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317684568",
+    "name": "munchkin_cat.glb",
+    "type": "scene",
+    "license": null
+  },
+  {
+    "id": "317684569",
+    "name": "Object_0.glb",
+    "type": "animation",
+    "license": null
+  },
+  {
+    "id": "317684570",
+    "name": "Muchkin1",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317684571",
+    "name": "Muchkin1_baseColor.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317684572",
+    "name": "Muchkin1_001",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "317684573",
+    "name": "Muchkin1_001_baseColor.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "317684574",
+    "name": "munchkin_cat.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317684575",
+    "name": "Muchkin1",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317684576",
+    "name": "Muchkin1_001",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317684577",
+    "name": "munchkin_cat",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "317685040",
+    "name": "catWalk",
+    "type": "animstategraph",
+    "license": null
+  },
+  {
+    "id": "317686531",
+    "name": "CatWander.mjs",
+    "type": "script",
+    "license": null
+  },
+  {
+    "id": "317700999",
+    "name": "deferred-cat-loader.mjs",
+    "type": "script",
+    "license": null
+  },
+  {
+    "id": "317805383",
+    "name": "work-panel.mjs",
+    "type": "script",
+    "license": null
+  },
+  {
+    "id": "317814993",
+    "name": "virtual-browser",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317814994",
+    "name": "native",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317814997",
+    "name": "macos",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317913115",
+    "name": "assets",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317913116",
+    "name": "ui",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317981077",
+    "name": "CurvedScreen.glb",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "317981078",
+    "name": "CurvedScreen.glb",
+    "type": "scene",
+    "license": null
+  },
+  {
+    "id": "317981079",
+    "name": "CurvedScreen.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "317981080",
+    "name": "Plane",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "317981081",
+    "name": "CurvedScreen",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "318004000",
+    "name": "left_half_mask.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "318008224",
+    "name": "pb153_notebook_low.glb",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "318008225",
+    "name": "pb153_notebook_low.glb",
+    "type": "scene",
+    "license": null
+  },
+  {
+    "id": "318008227",
+    "name": "initialShadingGroup",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "318008228",
+    "name": "initialShadingGroup_metallicRoughness.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "318008229",
+    "name": "initialShadingGroup_baseColor.jpeg",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "318008230",
+    "name": "pb153_notebook_low.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "318008231",
+    "name": "initialShadingGroup_normal.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "318008232",
+    "name": "Object_0",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "318008233",
+    "name": "pb153_notebook_low",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "318011537",
+    "name": "interaction-content.mjs",
+    "type": "script",
+    "license": null
+  },
+  {
+    "id": "318011538",
+    "name": "interactable.mjs",
+    "type": "script",
+    "license": null
+  },
+  {
+    "id": "318011539",
+    "name": "notebook-reader-ui.mjs",
+    "type": "script",
+    "license": null
+  },
+  {
+    "id": "318011542",
+    "name": "interaction-manager.mjs",
+    "type": "script",
+    "license": null
+  },
+  {
+    "id": "318017358",
+    "name": "travel_time.glb",
+    "type": "folder",
+    "license": null
+  },
+  {
+    "id": "318017359",
+    "name": "travel_time.glb",
+    "type": "scene",
+    "license": null
+  },
+  {
+    "id": "318017360",
+    "name": "material",
+    "type": "material",
+    "license": null
+  },
+  {
+    "id": "318017361",
+    "name": "material_normal.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "318017362",
+    "name": "material_diffuse.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "318017363",
+    "name": "material_occlusion.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "318017364",
+    "name": "material_specularGlossiness.png",
+    "type": "texture",
+    "license": null
+  },
+  {
+    "id": "318017365",
+    "name": "travel_time.glb",
+    "type": "container",
+    "license": null
+  },
+  {
+    "id": "318017366",
+    "name": "pCylinder1_tt_0",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "318017367",
+    "name": "pCube4_tt_0",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "318017368",
+    "name": "pCube6_tt_0",
+    "type": "render",
+    "license": null
+  },
+  {
+    "id": "318017370",
+    "name": "travel_time",
+    "type": "template",
+    "license": null
+  },
+  {
+    "id": "318018602",
+    "name": "localization.mjs",
+    "type": "script",
+    "license": null
+  },
+  {
+    "id": "318018603",
+    "name": "localization-ui.mjs",
+    "type": "script",
+    "license": null
+  },
+  {
+    "id": "318018604",
+    "name": "interaction-content-translations.mjs",
+    "type": "script",
+    "license": null
+  },
+  {
+    "id": "318021806",
+    "name": "scene-audio.mjs",
+    "type": "script",
+    "license": null
+  },
+  {
+    "id": "318021807",
+    "name": "youtube-audio-diagnostics.mjs",
+    "type": "script",
+    "license": null
+  },
+  {
+    "id": "318021808",
+    "name": "AUDIO-TESTING.txt",
+    "type": "text",
+    "license": null
+  },
+  {
+    "id": "318023532",
+    "name": "video-texture-source.mjs",
+    "type": "script",
+    "license": null
+  },
+  {
+    "id": "318030055",
+    "name": "heavyRain.mp4",
+    "type": "audio",
+    "license": null
+  }
+]

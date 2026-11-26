@@ -1,0 +1,17 @@
+# Local state and secrets
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.log
+__pycache__/
+*.pyc
+node_modules/
+dist/
+.vscode/
+.idea/
+.codex/
+.agents/

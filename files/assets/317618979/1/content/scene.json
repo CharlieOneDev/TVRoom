@@ -1,0 +1,549 @@
+{
+	"scene": {
+		"version": 1,
+		"assets": {
+			"renders": [
+				{
+					"name": "Ash pan front and air controls",
+					"index": 0,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 590,
+					"triangles": 644,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Baffle plate",
+					"index": 1,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 24,
+					"triangles": 12,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Door glass",
+					"index": 2,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 24,
+					"triangles": 12,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Door rope seal",
+					"index": 3,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 24,
+					"triangles": 12,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Door, hinges and handle lever",
+					"index": 4,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 432,
+					"triangles": 360,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Firebrick lining",
+					"index": 5,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 96,
+					"triangles": 48,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Flue throat",
+					"index": 6,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 202,
+					"triangles": 192,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Grate",
+					"index": 7,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 192,
+					"triangles": 96,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Handle grip",
+					"index": 8,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 90,
+					"triangles": 80,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Split logs",
+					"index": 9,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 138,
+					"triangles": 108,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Stove body, legs and flue collar",
+					"index": 10,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 3408,
+					"triangles": 4136,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				}
+			],
+			"materials": [
+				"Door frame, grate and handle hardware, cast iron",
+				"Baffle and flue throat, sooted steel",
+				"Door window, ceramic glass (alpha-blended, smoked)",
+				"Door rope seal, grey glass fibre",
+				"Firebox lining, firebrick",
+				"Handle grip, black",
+				"Split logs, bark",
+				"Steel body, matt black heat-resistant paint"
+			]
+		},
+		"entities": {
+			"0": {
+				"name": "Wood-burning stove with glass door and flue collar",
+				"parent": -1,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11
+				]
+			},
+			"1": {
+				"name": "Ash pan front and air controls",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 0,
+						"materials": [
+							"Door frame, grate and handle hardware, cast iron"
+						]
+					}
+				}
+			},
+			"2": {
+				"name": "Baffle plate",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 1,
+						"materials": [
+							"Baffle and flue throat, sooted steel"
+						]
+					}
+				}
+			},
+			"3": {
+				"name": "Door glass",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 2,
+						"materials": [
+							"Door window, ceramic glass (alpha-blended, smoked)"
+						]
+					}
+				}
+			},
+			"4": {
+				"name": "Door rope seal",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 3,
+						"materials": [
+							"Door rope seal, grey glass fibre"
+						]
+					}
+				}
+			},
+			"5": {
+				"name": "Door, hinges and handle lever",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 4,
+						"materials": [
+							"Door frame, grate and handle hardware, cast iron"
+						]
+					}
+				}
+			},
+			"6": {
+				"name": "Firebrick lining",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 5,
+						"materials": [
+							"Firebox lining, firebrick"
+						]
+					}
+				}
+			},
+			"7": {
+				"name": "Flue throat",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 6,
+						"materials": [
+							"Baffle and flue throat, sooted steel"
+						]
+					}
+				}
+			},
+			"8": {
+				"name": "Grate",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 7,
+						"materials": [
+							"Door frame, grate and handle hardware, cast iron"
+						]
+					}
+				}
+			},
+			"9": {
+				"name": "Handle grip",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 8,
+						"materials": [
+							"Handle grip, black"
+						]
+					}
+				}
+			},
+			"10": {
+				"name": "Split logs",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 9,
+						"materials": [
+							"Split logs, bark"
+						]
+					}
+				}
+			},
+			"11": {
+				"name": "Stove body, legs and flue collar",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 10,
+						"materials": [
+							"Steel body, matt black heat-resistant paint"
+						]
+					}
+				}
+			}
+		}
+	}
+}

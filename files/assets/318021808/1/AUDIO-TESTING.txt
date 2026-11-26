@@ -1,0 +1,66 @@
+Audio mixing changes and device verification
+===========================================
+
+Editor setup
+1. Sync scene-audio.mjs and youtube-audio-diagnostics.mjs alongside the existing
+   root modules. They are imports, not scripts to attach to entities.
+2. Parse youtube-screen.mjs. On the existing youtubeScreenOverlay instance,
+   enable Audio Debug during testing and set Audio Session Mode to ambient.
+3. Do not add an AudioContext, Ammo, a listener, or duplicate Sound components.
+   Existing Sound components keep their slots, loops, positional settings,
+   attenuation and volume. Local scene data is unavailable in this workspace;
+   confirm rain is an existing Sound slot with Loop enabled in Editor.
+4. Run a fresh Launch for each comparison. Test ambient first, then auto using
+   exactly the same device, silent-switch setting, videos and interaction order.
+   ambient is a mixing-oriented default, NOT a device-verified winner.
+5. Disable Audio Debug after collecting logs. Optional runtime commands:
+   app.fire('audio:debug', true) / app.fire('audio:debug', false)
+   app.fire('audio:session-mode', 'ambient') / ... 'auto'
+   Use the actual app reference in the Launch page, not the Editor shell.
+
+Logs
+Filter console for [AudioDebug]. Entries include wall-clock and elapsed time,
+context state, AudioSession type/state, Sound component play/pause/resume/stop/end,
+entity and slot, loop and positional state, media play/pause events, iframe load,
+explicit source changes, YouTube state/error/autoplay blocking and page lifecycle.
+YouTube numeric state: -1 unstarted, 0 ended, 1 playing, 2 paused, 3 buffering,
+5 cued. A pause without a preceding application source change is not sufficient
+on its own to prove audio-focus interruption: compare session/context and sound
+events at the same timestamp. API load failures mean YouTube state diagnostics
+are unavailable; they must not stop the existing iframe from playing.
+Sound event sources are engine notifications, not captured application call stacks.
+
+Device acceptance matrix (all UNVERIFIED on real devices in this workspace)
+Run on iOS Safari, Android Chrome and desktop:
+- Rain first, then explicitly enable YouTube sound.
+- YouTube first, then start rain / enter an audio zone.
+- Trigger footsteps and interaction sounds during YouTube playback.
+- Stop/start/switch environmental loops and leave/re-enter audio zones.
+- Open/close settings, Work and notebook; check neither player is restarted.
+- Pause/resume YouTube and select another YouTube video.
+- Background and foreground the page; record context and media state.
+- Rotate between portrait and landscape; no iframe source change should occur.
+- Check 3D positioning, attenuation, source volumes and engine master volume.
+- Repeat with the iPhone silent switch enabled and disabled.
+- Repeat all relevant cases with Audio Session Mode auto.
+
+Boundaries
+- The workspace contains no scene JSON or custom rain/footstep playback scripts.
+  Runtime Sound-component diagnostics identify the actual entities and slots.
+- SceneAudio reuses app.soundManager.context and the engine's one-shot gesture
+  unlock. It never resumes/suspends contexts on focus, sound starts or every tap.
+- PlayCanvas retains its built-in hidden-page suspend/visible-page resume.
+- The two video texture scripts still use HTMLVideoElement for video decoding.
+  No unverified MediaElementSource rerouting or CORS-sensitive audio replacement
+  was introduced. Their audible output may still be restricted by a device.
+- Bedroom video foreground recovery automatically restarts only muted visuals.
+  If the browser paused audible bedroom video, explicitly toggle its sound off
+  and back on in Settings to resume; no repeated focus-grabbing retry is made.
+- VideoScreen retains its original one-time first-gesture unmute, now without
+  calling play again if already playing. This path is logged for diagnosis.
+- Parent AudioSession cannot directly set the cross-origin YouTube session.
+  ambient may be silent with the iPhone silent switch; no automatic switching to
+  playback or exclusive mode is attempted.
+- No automatic priority fallback mutes rain or YouTube. Such a fallback needs
+  evidence from a failing real device before adding user-selectable priorities.
+- Syntax and mocked lifecycle tests are not desktop/mobile playback verification.

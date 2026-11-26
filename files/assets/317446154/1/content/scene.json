@@ -1,0 +1,345 @@
+{
+	"scene": {
+		"version": 1,
+		"assets": {
+			"renders": [
+				{
+					"name": "Bedroom_Bedroom_0",
+					"index": 0,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 65533,
+					"triangles": 51494,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1,
+						"TEXCOORD_2": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Bedroom_Bedroom_0",
+					"index": 1,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 14008,
+					"triangles": 14786,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1,
+						"TEXCOORD_2": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Bedroom_Duvet_0",
+					"index": 2,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 11120,
+					"triangles": 17230,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Bedroom_Carpet_0",
+					"index": 3,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 768,
+					"triangles": 384,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Bedroom_Windows_0",
+					"index": 4,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 16,
+					"triangles": 8,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1
+					},
+					"meshCompression": ""
+				}
+			],
+			"materials": [
+				"Bedroom",
+				"Duvet",
+				"Carpet",
+				"Windows"
+			]
+		},
+		"entities": {
+			"0": {
+				"name": "Sketchfab_model",
+				"parent": -1,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					-90,
+					-0,
+					0
+				],
+				"scale": [
+					0.094409,
+					0.094409,
+					0.094409
+				],
+				"scaleCompensation": false,
+				"children": [
+					1
+				]
+			},
+			"1": {
+				"name": "Minimalistic Modern Bedroom.fbx",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					90,
+					-0,
+					0
+				],
+				"scale": [
+					0.01,
+					0.01,
+					0.01
+				],
+				"scaleCompensation": false,
+				"children": [
+					2
+				]
+			},
+			"2": {
+				"name": "RootNode",
+				"parent": 1,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					3
+				]
+			},
+			"3": {
+				"name": "Bedroom",
+				"parent": 2,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					-90,
+					-0,
+					0
+				],
+				"scale": [
+					2721.36,
+					3174.92,
+					1814.24
+				],
+				"scaleCompensation": false,
+				"children": [
+					4,
+					5,
+					6,
+					7,
+					8
+				]
+			},
+			"4": {
+				"name": "Bedroom_Bedroom_0",
+				"parent": 3,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 0,
+						"materials": [
+							"Bedroom"
+						]
+					}
+				}
+			},
+			"5": {
+				"name": "Bedroom_Bedroom_0",
+				"parent": 3,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 1,
+						"materials": [
+							"Bedroom"
+						]
+					}
+				}
+			},
+			"6": {
+				"name": "Bedroom_Duvet_0",
+				"parent": 3,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 2,
+						"materials": [
+							"Duvet"
+						]
+					}
+				}
+			},
+			"7": {
+				"name": "Bedroom_Carpet_0",
+				"parent": 3,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 3,
+						"materials": [
+							"Carpet"
+						]
+					}
+				}
+			},
+			"8": {
+				"name": "Bedroom_Windows_0",
+				"parent": 3,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 4,
+						"materials": [
+							"Windows"
+						]
+					}
+				}
+			}
+		}
+	}
+}

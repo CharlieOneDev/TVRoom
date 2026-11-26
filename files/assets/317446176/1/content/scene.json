@@ -1,0 +1,2425 @@
+{
+	"scene": {
+		"version": 1,
+		"assets": {
+			"renders": [
+				{
+					"name": "Object_0",
+					"index": 0,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 3509,
+					"triangles": 5652,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object_1",
+					"index": 1,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 28,
+					"triangles": 30,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object_2",
+					"index": 2,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 196,
+					"triangles": 256,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object_3",
+					"index": 3,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 3274,
+					"triangles": 5376,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object_4",
+					"index": 4,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 89,
+					"triangles": 64,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object_5",
+					"index": 5,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 207,
+					"triangles": 84,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1,
+						"TEXCOORD_2": 1,
+						"TEXCOORD_3": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object_6",
+					"index": 6,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 8,
+					"triangles": 4,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object_7",
+					"index": 7,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 22,
+					"triangles": 10,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object_8",
+					"index": 8,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 3394,
+					"triangles": 3221,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object_9",
+					"index": 9,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 8939,
+					"triangles": 12048,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object_10",
+					"index": 10,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 3167,
+					"triangles": 4448,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object_11",
+					"index": 11,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 459,
+					"triangles": 640,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object_12",
+					"index": 12,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 356,
+					"triangles": 468,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object_13",
+					"index": 13,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 3269,
+					"triangles": 1216,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object_14",
+					"index": 14,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 1613,
+					"triangles": 1750,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object_15",
+					"index": 15,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 195,
+					"triangles": 80,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1,
+						"TEXCOORD_2": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object_16",
+					"index": 16,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 490,
+					"triangles": 168,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object_17",
+					"index": 17,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 78,
+					"triangles": 26,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object_18",
+					"index": 18,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 111,
+					"triangles": 52,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object_19",
+					"index": 19,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 2162,
+					"triangles": 2786,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object_20",
+					"index": 20,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 3791,
+					"triangles": 5660,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1,
+						"TEXCOORD_2": 1,
+						"TEXCOORD_3": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object_21",
+					"index": 21,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 3235,
+					"triangles": 4140,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1,
+						"TEXCOORD_2": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object_22",
+					"index": 22,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 693,
+					"triangles": 288,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object_23",
+					"index": 23,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 1186,
+					"triangles": 1622,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1,
+						"TEXCOORD_2": 1,
+						"TEXCOORD_3": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object_24",
+					"index": 24,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 1555,
+					"triangles": 588,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1,
+						"TEXCOORD_2": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object_25",
+					"index": 25,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 1696,
+					"triangles": 2688,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object_26",
+					"index": 26,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 2487,
+					"triangles": 3327,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"COLOR": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1,
+						"TEXCOORD_2": 1,
+						"TEXCOORD_3": 1,
+						"TEXCOORD_4": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object_27",
+					"index": 27,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 207,
+					"triangles": 132,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1,
+						"TEXCOORD_2": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object_28",
+					"index": 28,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 6407,
+					"triangles": 12460,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object_29",
+					"index": 29,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 30,
+					"triangles": 20,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1,
+						"TEXCOORD_2": 1,
+						"TEXCOORD_3": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object_30",
+					"index": 30,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 1199,
+					"triangles": 680,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1,
+						"TEXCOORD_2": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object_31",
+					"index": 31,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 373,
+					"triangles": 214,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1,
+						"TEXCOORD_2": 1,
+						"TEXCOORD_3": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Object_32",
+					"index": 32,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 3927,
+					"triangles": 4566,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1,
+						"TEXCOORD_1": 1
+					},
+					"meshCompression": ""
+				}
+			],
+			"materials": [
+				"ceramic_objects",
+				"ceiling",
+				"lamp_cloth",
+				"lamp_metal",
+				"bathroomceiling",
+				"bathroom_wall",
+				"shower_light",
+				"showerpanel",
+				"jetspray",
+				"crome",
+				"faucethandle",
+				"dustbin",
+				"toiletpaper",
+				"bathroom_light",
+				"passage_light",
+				"window",
+				"mirror_body",
+				"mirror_glass",
+				"encloserglass",
+				"senclosure",
+				"towel01",
+				"handwash",
+				"decoreplate",
+				"towel02",
+				"shower_head",
+				"flowerpot",
+				"plant",
+				"floor",
+				"artisticwall",
+				"vanitywall",
+				"vanitycounter",
+				"sidewall",
+				"towelroll"
+			]
+		},
+		"entities": {
+			"0": {
+				"name": "Sketchfab_model",
+				"parent": -1,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					-90,
+					-0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					1
+				]
+			},
+			"1": {
+				"name": "root",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					2
+				]
+			},
+			"2": {
+				"name": "GLTF_SceneRootNode",
+				"parent": 1,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					90,
+					-0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					3,
+					5,
+					7,
+					9,
+					11,
+					13,
+					15,
+					17,
+					19,
+					21,
+					23,
+					25,
+					27,
+					29,
+					31,
+					33,
+					35,
+					37,
+					39,
+					41,
+					43,
+					45,
+					47,
+					49,
+					51,
+					53,
+					55,
+					57,
+					59,
+					61,
+					63,
+					65,
+					67
+				]
+			},
+			"3": {
+				"name": "ceramic_objects_0",
+				"parent": 2,
+				"position": [
+					-1.93661,
+					0.387555,
+					0.837806
+				],
+				"rotation": [
+					0,
+					-90,
+					0
+				],
+				"scale": [
+					0.272999,
+					0.272999,
+					0.272999
+				],
+				"scaleCompensation": false,
+				"children": [
+					4
+				]
+			},
+			"4": {
+				"name": "Object_4",
+				"parent": 3,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 0,
+						"materials": [
+							"ceramic_objects"
+						]
+					}
+				}
+			},
+			"5": {
+				"name": "ceiling_passage_1",
+				"parent": 2,
+				"position": [
+					-0.621325,
+					0.00054431,
+					-0.601611
+				],
+				"rotation": [
+					0,
+					-0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					6
+				]
+			},
+			"6": {
+				"name": "Object_6",
+				"parent": 5,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 1,
+						"materials": [
+							"ceiling"
+						]
+					}
+				}
+			},
+			"7": {
+				"name": "lamp_cloth_2",
+				"parent": 2,
+				"position": [
+					2.47056,
+					1.68634,
+					1.68672
+				],
+				"rotation": [
+					-0,
+					-0,
+					180
+				],
+				"scale": [
+					-1.23469,
+					-1.23469,
+					-1.23469
+				],
+				"scaleCompensation": false,
+				"children": [
+					8
+				]
+			},
+			"8": {
+				"name": "Object_8",
+				"parent": 7,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 2,
+						"materials": [
+							"lamp_cloth"
+						]
+					}
+				}
+			},
+			"9": {
+				"name": "lamp_metal_3",
+				"parent": 2,
+				"position": [
+					2.47056,
+					1.68634,
+					1.68672
+				],
+				"rotation": [
+					-0,
+					-0,
+					180
+				],
+				"scale": [
+					-1.23469,
+					-1.23469,
+					-1.23469
+				],
+				"scaleCompensation": false,
+				"children": [
+					10
+				]
+			},
+			"10": {
+				"name": "Object_10",
+				"parent": 9,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 3,
+						"materials": [
+							"lamp_metal"
+						]
+					}
+				}
+			},
+			"11": {
+				"name": "ceiling_bathroom_4",
+				"parent": 2,
+				"position": [
+					-1.47017,
+					2.90335,
+					-1.07784
+				],
+				"rotation": [
+					0,
+					-0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					12
+				]
+			},
+			"12": {
+				"name": "Object_12",
+				"parent": 11,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 4,
+						"materials": [
+							"bathroomceiling"
+						]
+					}
+				}
+			},
+			"13": {
+				"name": "bathroom_wall_5",
+				"parent": 2,
+				"position": [
+					-0.621325,
+					0.00054431,
+					-0.601611
+				],
+				"rotation": [
+					0,
+					-0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					14
+				]
+			},
+			"14": {
+				"name": "Object_14",
+				"parent": 13,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 5,
+						"materials": [
+							"bathroom_wall"
+						]
+					}
+				}
+			},
+			"15": {
+				"name": "shower_light_6",
+				"parent": 2,
+				"position": [
+					-1.47017,
+					2.90335,
+					-1.07784
+				],
+				"rotation": [
+					0,
+					-0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					16
+				]
+			},
+			"16": {
+				"name": "Object_16",
+				"parent": 15,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 6,
+						"materials": [
+							"shower_light"
+						]
+					}
+				}
+			},
+			"17": {
+				"name": "showerpanel_7",
+				"parent": 2,
+				"position": [
+					-1.47017,
+					2.90335,
+					-1.07784
+				],
+				"rotation": [
+					0,
+					-0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					18
+				]
+			},
+			"18": {
+				"name": "Object_18",
+				"parent": 17,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 7,
+						"materials": [
+							"showerpanel"
+						]
+					}
+				}
+			},
+			"19": {
+				"name": "jetspray_8",
+				"parent": 2,
+				"position": [
+					-2.34646,
+					0.752785,
+					0.876892
+				],
+				"rotation": [
+					0,
+					-0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					20
+				]
+			},
+			"20": {
+				"name": "Object_20",
+				"parent": 19,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 8,
+						"materials": [
+							"jetspray"
+						]
+					}
+				}
+			},
+			"21": {
+				"name": "crome_9",
+				"parent": 2,
+				"position": [
+					-1.17468,
+					1.18208,
+					-1.87593
+				],
+				"rotation": [
+					180,
+					90,
+					180
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					22
+				]
+			},
+			"22": {
+				"name": "Object_22",
+				"parent": 21,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 9,
+						"materials": [
+							"crome"
+						]
+					}
+				}
+			},
+			"23": {
+				"name": "faucet&handle_10",
+				"parent": 2,
+				"position": [
+					0.597083,
+					0.655267,
+					-1.09075
+				],
+				"rotation": [
+					0,
+					-0.147577,
+					0
+				],
+				"scale": [
+					0.0721641,
+					0.0721641,
+					0.0721641
+				],
+				"scaleCompensation": false,
+				"children": [
+					24
+				]
+			},
+			"24": {
+				"name": "Object_24",
+				"parent": 23,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 10,
+						"materials": [
+							"faucethandle"
+						]
+					}
+				}
+			},
+			"25": {
+				"name": "dustbin_11",
+				"parent": 2,
+				"position": [
+					2.09648,
+					0.266748,
+					1.65876
+				],
+				"rotation": [
+					0,
+					-0,
+					0
+				],
+				"scale": [
+					0.474653,
+					0.912357,
+					0.474653
+				],
+				"scaleCompensation": false,
+				"children": [
+					26
+				]
+			},
+			"26": {
+				"name": "Object_26",
+				"parent": 25,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 11,
+						"materials": [
+							"dustbin"
+						]
+					}
+				}
+			},
+			"27": {
+				"name": "toiletpaper_12",
+				"parent": 2,
+				"position": [
+					-2.26471,
+					0.279829,
+					0.427302
+				],
+				"rotation": [
+					90,
+					-0,
+					0
+				],
+				"scale": [
+					0.139397,
+					0.195426,
+					0.139397
+				],
+				"scaleCompensation": false,
+				"children": [
+					28
+				]
+			},
+			"28": {
+				"name": "Object_28",
+				"parent": 27,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 12,
+						"materials": [
+							"toiletpaper"
+						]
+					}
+				}
+			},
+			"29": {
+				"name": "bathroom_light_13",
+				"parent": 2,
+				"position": [
+					-1.47475,
+					2.90335,
+					-0.511274
+				],
+				"rotation": [
+					0,
+					-0,
+					0
+				],
+				"scale": [
+					0.0943356,
+					0.0943356,
+					0.0943356
+				],
+				"scaleCompensation": false,
+				"children": [
+					30
+				]
+			},
+			"30": {
+				"name": "Object_30",
+				"parent": 29,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 13,
+						"materials": [
+							"bathroom_light"
+						]
+					}
+				}
+			},
+			"31": {
+				"name": "passage_light_14",
+				"parent": 2,
+				"position": [
+					-1.24896,
+					2.89884,
+					0.925858
+				],
+				"rotation": [
+					0,
+					-0,
+					0
+				],
+				"scale": [
+					0.219024,
+					0.219024,
+					0.219024
+				],
+				"scaleCompensation": false,
+				"children": [
+					32
+				]
+			},
+			"32": {
+				"name": "Object_32",
+				"parent": 31,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 14,
+						"materials": [
+							"passage_light"
+						]
+					}
+				}
+			},
+			"33": {
+				"name": "window_15",
+				"parent": 2,
+				"position": [
+					-2.43373,
+					1.54655,
+					0.980099
+				],
+				"rotation": [
+					0,
+					-0,
+					0
+				],
+				"scale": [
+					0.717254,
+					0.717254,
+					0.717254
+				],
+				"scaleCompensation": false,
+				"children": [
+					34
+				]
+			},
+			"34": {
+				"name": "Object_34",
+				"parent": 33,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 15,
+						"materials": [
+							"window"
+						]
+					}
+				}
+			},
+			"35": {
+				"name": "mirror_body_16",
+				"parent": 2,
+				"position": [
+					2.47052,
+					1.85268,
+					0.901909
+				],
+				"rotation": [
+					0,
+					-0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					36
+				]
+			},
+			"36": {
+				"name": "Object_36",
+				"parent": 35,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 16,
+						"materials": [
+							"mirror_body"
+						]
+					}
+				}
+			},
+			"37": {
+				"name": "mirror_glass_17",
+				"parent": 2,
+				"position": [
+					2.47052,
+					1.85268,
+					0.901909
+				],
+				"rotation": [
+					0,
+					-0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					38
+				]
+			},
+			"38": {
+				"name": "Object_38",
+				"parent": 37,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 17,
+						"materials": [
+							"mirror_glass"
+						]
+					}
+				}
+			},
+			"39": {
+				"name": "enclosure_glass_18",
+				"parent": 2,
+				"position": [
+					-1.52282,
+					1.25162,
+					-0.88768
+				],
+				"rotation": [
+					0,
+					-0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					40
+				]
+			},
+			"40": {
+				"name": "Object_40",
+				"parent": 39,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 18,
+						"materials": [
+							"encloserglass"
+						]
+					}
+				}
+			},
+			"41": {
+				"name": "enclosure_body_19",
+				"parent": 2,
+				"position": [
+					-1.47486,
+					1.41716,
+					-0.146959
+				],
+				"rotation": [
+					0,
+					-0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					42
+				]
+			},
+			"42": {
+				"name": "Object_42",
+				"parent": 41,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 19,
+						"materials": [
+							"senclosure"
+						]
+					}
+				}
+			},
+			"43": {
+				"name": "towel01_20",
+				"parent": 2,
+				"position": [
+					1.0053,
+					0.775346,
+					-1.23312
+				],
+				"rotation": [
+					0,
+					-45.9671,
+					0
+				],
+				"scale": [
+					0.0147991,
+					0.014799,
+					0.0147991
+				],
+				"scaleCompensation": false,
+				"children": [
+					44
+				]
+			},
+			"44": {
+				"name": "Object_44",
+				"parent": 43,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 20,
+						"materials": [
+							"towel01"
+						]
+					}
+				}
+			},
+			"45": {
+				"name": "handwash_21",
+				"parent": 2,
+				"position": [
+					2.1156,
+					0.250962,
+					0.656209
+				],
+				"rotation": [
+					180,
+					3.19731,
+					180
+				],
+				"scale": [
+					0.0253305,
+					0.0253304,
+					0.0253305
+				],
+				"scaleCompensation": false,
+				"children": [
+					46
+				]
+			},
+			"46": {
+				"name": "Object_46",
+				"parent": 45,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 21,
+						"materials": [
+							"handwash"
+						]
+					}
+				}
+			},
+			"47": {
+				"name": "decoreplate_22",
+				"parent": 2,
+				"position": [
+					1.65679,
+					2.4623,
+					-0.979936
+				],
+				"rotation": [
+					-135,
+					90,
+					135
+				],
+				"scale": [
+					0.593465,
+					0.593465,
+					0.593465
+				],
+				"scaleCompensation": false,
+				"children": [
+					48
+				]
+			},
+			"48": {
+				"name": "Object_48",
+				"parent": 47,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 22,
+						"materials": [
+							"decoreplate"
+						]
+					}
+				}
+			},
+			"49": {
+				"name": "towel02_23",
+				"parent": 2,
+				"position": [
+					1.0053,
+					0.775346,
+					-1.23312
+				],
+				"rotation": [
+					0,
+					-45.9671,
+					0
+				],
+				"scale": [
+					0.0147991,
+					0.014799,
+					0.0147991
+				],
+				"scaleCompensation": false,
+				"children": [
+					50
+				]
+			},
+			"50": {
+				"name": "Object_50",
+				"parent": 49,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 23,
+						"materials": [
+							"towel02"
+						]
+					}
+				}
+			},
+			"51": {
+				"name": "shower_head_24",
+				"parent": 2,
+				"position": [
+					-1.76558,
+					1.29797,
+					-1.9531
+				],
+				"rotation": [
+					90,
+					-0,
+					0
+				],
+				"scale": [
+					0.147267,
+					0.147267,
+					0.147267
+				],
+				"scaleCompensation": false,
+				"children": [
+					52
+				]
+			},
+			"52": {
+				"name": "Object_52",
+				"parent": 51,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 24,
+						"materials": [
+							"shower_head"
+						]
+					}
+				}
+			},
+			"53": {
+				"name": "flowerpot_25",
+				"parent": 2,
+				"position": [
+					-0.288594,
+					0.756481,
+					-1.14542
+				],
+				"rotation": [
+					0,
+					89.4332,
+					0
+				],
+				"scale": [
+					0.259055,
+					0.259055,
+					0.259055
+				],
+				"scaleCompensation": false,
+				"children": [
+					54
+				]
+			},
+			"54": {
+				"name": "Object_54",
+				"parent": 53,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 25,
+						"materials": [
+							"flowerpot"
+						]
+					}
+				}
+			},
+			"55": {
+				"name": "plant_26",
+				"parent": 2,
+				"position": [
+					2.33151,
+					0.972208,
+					1.64613
+				],
+				"rotation": [
+					90,
+					-63.3944,
+					-2.1571e-06
+				],
+				"scale": [
+					0.00293999,
+					0.00293999,
+					0.00293999
+				],
+				"scaleCompensation": false,
+				"children": [
+					56
+				]
+			},
+			"56": {
+				"name": "Object_56",
+				"parent": 55,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 26,
+						"materials": [
+							"plant"
+						]
+					}
+				}
+			},
+			"57": {
+				"name": "floor_27",
+				"parent": 2,
+				"position": [
+					0.618155,
+					1.25602,
+					-0.15938
+				],
+				"rotation": [
+					0,
+					-0,
+					0
+				],
+				"scale": [
+					0.781439,
+					0.781439,
+					0.781439
+				],
+				"scaleCompensation": false,
+				"children": [
+					58
+				]
+			},
+			"58": {
+				"name": "Object_58",
+				"parent": 57,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 27,
+						"materials": [
+							"floor"
+						]
+					}
+				}
+			},
+			"59": {
+				"name": "artistictile_wall_28",
+				"parent": 2,
+				"position": [
+					0.24841,
+					1.20272,
+					-1.35726
+				],
+				"rotation": [
+					90,
+					0,
+					0
+				],
+				"scale": [
+					-0.0536603,
+					-0.0536603,
+					-0.0536603
+				],
+				"scaleCompensation": false,
+				"children": [
+					60
+				]
+			},
+			"60": {
+				"name": "Object_60",
+				"parent": 59,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 28,
+						"materials": [
+							"artisticwall"
+						]
+					}
+				}
+			},
+			"61": {
+				"name": "vanityside_wall_29",
+				"parent": 2,
+				"position": [
+					-0.621325,
+					0.00054431,
+					-0.601611
+				],
+				"rotation": [
+					0,
+					-0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					62
+				]
+			},
+			"62": {
+				"name": "Object_62",
+				"parent": 61,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 29,
+						"materials": [
+							"vanitywall"
+						]
+					}
+				}
+			},
+			"63": {
+				"name": "vanitycounter_30",
+				"parent": 2,
+				"position": [
+					2.20581,
+					0.428527,
+					0.914519
+				],
+				"rotation": [
+					180,
+					-1.86693e-05,
+					180
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					64
+				]
+			},
+			"64": {
+				"name": "Object_64",
+				"parent": 63,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 30,
+						"materials": [
+							"vanitycounter"
+						]
+					}
+				}
+			},
+			"65": {
+				"name": "sidewall_31",
+				"parent": 2,
+				"position": [
+					-0.621325,
+					0.00054431,
+					-0.601611
+				],
+				"rotation": [
+					0,
+					-0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					66
+				]
+			},
+			"66": {
+				"name": "Object_66",
+				"parent": 65,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 31,
+						"materials": [
+							"sidewall"
+						]
+					}
+				}
+			},
+			"67": {
+				"name": "towelroll_32",
+				"parent": 2,
+				"position": [
+					2.24336,
+					0.928619,
+					-0.0116921
+				],
+				"rotation": [
+					8.02967,
+					36.5596,
+					94.8032
+				],
+				"scale": [
+					1.41245,
+					1.41245,
+					1.41245
+				],
+				"scaleCompensation": false,
+				"children": [
+					68
+				]
+			},
+			"68": {
+				"name": "Object_68",
+				"parent": 67,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 32,
+						"materials": [
+							"towelroll"
+						]
+					}
+				}
+			}
+		}
+	}
+}

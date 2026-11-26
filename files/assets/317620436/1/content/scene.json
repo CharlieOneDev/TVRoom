@@ -1,0 +1,595 @@
+{
+	"scene": {
+		"version": 1,
+		"assets": {
+			"renders": [
+				{
+					"name": "Cylinder.001",
+					"index": 0,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 644,
+					"triangles": 1020,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Cylinder.002",
+					"index": 1,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 644,
+					"triangles": 1020,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Cylinder.003",
+					"index": 2,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 644,
+					"triangles": 1020,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Cylinder.004",
+					"index": 3,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 644,
+					"triangles": 1020,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Rotating walnut layer 1",
+					"index": 4,
+					"meshes": 2,
+					"skinned": false,
+					"vertices": 1042,
+					"triangles": 1020,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Rotating walnut layer 2",
+					"index": 5,
+					"meshes": 2,
+					"skinned": false,
+					"vertices": 1042,
+					"triangles": 1020,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Rotating walnut layer 3",
+					"index": 6,
+					"meshes": 2,
+					"skinned": false,
+					"vertices": 1042,
+					"triangles": 1020,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Cylinder",
+					"index": 7,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 484,
+					"triangles": 764,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Torus",
+					"index": 8,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 585,
+					"triangles": 1024,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Torus.001",
+					"index": 9,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 585,
+					"triangles": 1024,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Torus.002",
+					"index": 10,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 585,
+					"triangles": 1024,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Weighted oval-stack plinth",
+					"index": 11,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 1028,
+					"triangles": 1020,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				}
+			],
+			"materials": [
+				"Satin champagne bronze",
+				"Black felt floor glides",
+				"Satin walnut | longitudinal grain",
+				"Satin walnut | end grain",
+				"Charcoal fine-textured powdercoat"
+			]
+		},
+		"entities": {
+			"0": {
+				"name": "Orbit Layers",
+				"parent": -1,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12
+				]
+			},
+			"1": {
+				"name": "Layer swivel bearing",
+				"parent": 0,
+				"position": [
+					0,
+					0.251,
+					0
+				],
+				"rotation": [
+					180,
+					-5.00896e-06,
+					180
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 0,
+						"materials": [
+							"Satin champagne bronze"
+						]
+					}
+				}
+			},
+			"2": {
+				"name": "Layer swivel bearing.001",
+				"parent": 0,
+				"position": [
+					0,
+					0.327,
+					0
+				],
+				"rotation": [
+					180,
+					-5.00896e-06,
+					180
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 1,
+						"materials": [
+							"Satin champagne bronze"
+						]
+					}
+				}
+			},
+			"3": {
+				"name": "Layer swivel bearing.002",
+				"parent": 0,
+				"position": [
+					0,
+					0.407,
+					0
+				],
+				"rotation": [
+					180,
+					-5.00896e-06,
+					180
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 2,
+						"materials": [
+							"Satin champagne bronze"
+						]
+					}
+				}
+			},
+			"4": {
+				"name": "Protective base felt",
+				"parent": 0,
+				"position": [
+					0,
+					0.004,
+					0
+				],
+				"rotation": [
+					180,
+					-5.00896e-06,
+					180
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 3,
+						"materials": [
+							"Black felt floor glides"
+						]
+					}
+				}
+			},
+			"5": {
+				"name": "Rotating walnut layer 1",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					-12,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 4,
+						"materials": [
+							"Satin walnut | longitudinal grain",
+							"Satin walnut | end grain"
+						]
+					}
+				}
+			},
+			"6": {
+				"name": "Rotating walnut layer 2",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					21,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 5,
+						"materials": [
+							"Satin walnut | longitudinal grain",
+							"Satin walnut | end grain"
+						]
+					}
+				}
+			},
+			"7": {
+				"name": "Rotating walnut layer 3",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					-27,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 6,
+						"materials": [
+							"Satin walnut | longitudinal grain",
+							"Satin walnut | end grain"
+						]
+					}
+				}
+			},
+			"8": {
+				"name": "Stack central support column",
+				"parent": 0,
+				"position": [
+					0,
+					0.237,
+					0
+				],
+				"rotation": [
+					180,
+					-5.00896e-06,
+					180
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 7,
+						"materials": [
+							"Satin champagne bronze"
+						]
+					}
+				}
+			},
+			"9": {
+				"name": "Swivel race reveal",
+				"parent": 0,
+				"position": [
+					0,
+					0.249,
+					0
+				],
+				"rotation": [
+					180,
+					-5.00896e-06,
+					180
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 8,
+						"materials": [
+							"Charcoal fine-textured powdercoat"
+						]
+					}
+				}
+			},
+			"10": {
+				"name": "Swivel race reveal.001",
+				"parent": 0,
+				"position": [
+					0,
+					0.325,
+					0
+				],
+				"rotation": [
+					180,
+					-5.00896e-06,
+					180
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 9,
+						"materials": [
+							"Charcoal fine-textured powdercoat"
+						]
+					}
+				}
+			},
+			"11": {
+				"name": "Swivel race reveal.002",
+				"parent": 0,
+				"position": [
+					0,
+					0.405,
+					0
+				],
+				"rotation": [
+					180,
+					-5.00896e-06,
+					180
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 10,
+						"materials": [
+							"Charcoal fine-textured powdercoat"
+						]
+					}
+				}
+			},
+			"12": {
+				"name": "Weighted oval-stack plinth",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 11,
+						"materials": [
+							"Charcoal fine-textured powdercoat"
+						]
+					}
+				}
+			}
+		}
+	}
+}

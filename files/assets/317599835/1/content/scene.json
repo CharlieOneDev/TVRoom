@@ -1,0 +1,683 @@
+{
+	"scene": {
+		"version": 1,
+		"assets": {
+			"renders": [
+				{
+					"name": "Bay head board",
+					"index": 0,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 24,
+					"triangles": 12,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Bay seat board and sill",
+					"index": 1,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 24,
+					"triangles": 12,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Frame 1",
+					"index": 2,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 96,
+					"triangles": 48,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Frame 2",
+					"index": 3,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 96,
+					"triangles": 48,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Frame 3",
+					"index": 4,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 96,
+					"triangles": 48,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Glass 1",
+					"index": 5,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 24,
+					"triangles": 12,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Glass 2",
+					"index": 6,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 24,
+					"triangles": 12,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Glass 3",
+					"index": 7,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 24,
+					"triangles": 12,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Grilles 1",
+					"index": 8,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 144,
+					"triangles": 72,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Grilles 2",
+					"index": 9,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 96,
+					"triangles": 48,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Grilles 3",
+					"index": 10,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 96,
+					"triangles": 48,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Sashes 1",
+					"index": 11,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 96,
+					"triangles": 48,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Sashes 2",
+					"index": 12,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 120,
+					"triangles": 60,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				},
+				{
+					"name": "Sashes 3",
+					"index": 13,
+					"meshes": 1,
+					"skinned": false,
+					"vertices": 120,
+					"triangles": 60,
+					"attributes": {
+						"POSITION": 1,
+						"NORMAL": 1,
+						"TEXCOORD_0": 1
+					},
+					"meshCompression": ""
+				}
+			],
+			"materials": [
+				"Sill and trim",
+				"Frames and sashes, white",
+				"Glass (alpha-blended)",
+				"Muntin grilles, white"
+			]
+		},
+		"entities": {
+			"0": {
+				"name": "Bay window about 2400 mm, 3 units at 45 degrees, colonial grilles",
+				"parent": -1,
+				"position": [
+					0,
+					0.04,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12,
+					13,
+					14
+				]
+			},
+			"1": {
+				"name": "Bay head board",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 0,
+						"materials": [
+							"Sill and trim"
+						]
+					}
+				}
+			},
+			"2": {
+				"name": "Bay seat board and sill",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 1,
+						"materials": [
+							"Sill and trim"
+						]
+					}
+				}
+			},
+			"3": {
+				"name": "Frame 1",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 2,
+						"materials": [
+							"Frames and sashes, white"
+						]
+					}
+				}
+			},
+			"4": {
+				"name": "Frame 2",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 3,
+						"materials": [
+							"Frames and sashes, white"
+						]
+					}
+				}
+			},
+			"5": {
+				"name": "Frame 3",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 4,
+						"materials": [
+							"Frames and sashes, white"
+						]
+					}
+				}
+			},
+			"6": {
+				"name": "Glass 1",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 5,
+						"materials": [
+							"Glass (alpha-blended)"
+						]
+					}
+				}
+			},
+			"7": {
+				"name": "Glass 2",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 6,
+						"materials": [
+							"Glass (alpha-blended)"
+						]
+					}
+				}
+			},
+			"8": {
+				"name": "Glass 3",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 7,
+						"materials": [
+							"Glass (alpha-blended)"
+						]
+					}
+				}
+			},
+			"9": {
+				"name": "Grilles 1",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 8,
+						"materials": [
+							"Muntin grilles, white"
+						]
+					}
+				}
+			},
+			"10": {
+				"name": "Grilles 2",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 9,
+						"materials": [
+							"Muntin grilles, white"
+						]
+					}
+				}
+			},
+			"11": {
+				"name": "Grilles 3",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 10,
+						"materials": [
+							"Muntin grilles, white"
+						]
+					}
+				}
+			},
+			"12": {
+				"name": "Sashes 1",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 11,
+						"materials": [
+							"Frames and sashes, white"
+						]
+					}
+				}
+			},
+			"13": {
+				"name": "Sashes 2",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 12,
+						"materials": [
+							"Frames and sashes, white"
+						]
+					}
+				}
+			},
+			"14": {
+				"name": "Sashes 3",
+				"parent": 0,
+				"position": [
+					0,
+					0,
+					0
+				],
+				"rotation": [
+					0,
+					0,
+					0
+				],
+				"scale": [
+					1,
+					1,
+					1
+				],
+				"scaleCompensation": false,
+				"children": [
+
+				],
+				"components": {
+					"render": {
+						"id": 13,
+						"materials": [
+							"Frames and sashes, white"
+						]
+					}
+				}
+			}
+		}
+	}
+}

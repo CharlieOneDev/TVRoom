@@ -1,0 +1,7 @@
+* text=auto
+*.md text eol=lf
+*.py text eol=lf
+*.yml text eol=lf
+# Preserve exported bytes: assets.json contains hashes and sizes.
+files/** -text
+thumbnails/** -text
